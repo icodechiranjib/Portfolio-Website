@@ -1,0 +1,30 @@
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+  }
+
+.firstpage {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    padding: 15rem 0;
+    background:url(img/20200221025120_IMG_7368.JPG);
+    backdrop-filter: blur(10px);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.firstpage h1 {
+    font-size: 8rem;
+    margin: 0;
+    padding: 0;
+    color: white; 
+}
+
+a {
+    font-size: 1.2rem;
+    color: black;
+    text-decoration: none;
+    background-color: transparent;
+  }
