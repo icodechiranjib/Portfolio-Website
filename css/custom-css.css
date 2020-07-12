@@ -7,7 +7,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
     width: 100vw;
     height: 100vh;
     padding: 15rem 0;
-    background:url(img/20200221025120_IMG_7368.JPG);
+    background:url(../img/20200221025120_IMG_7368.JPG);
     backdrop-filter: blur(10px);
     background-position: center;
     background-repeat: no-repeat;
